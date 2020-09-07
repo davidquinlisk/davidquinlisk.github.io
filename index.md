@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>David Quinlisk | Hybrid Cloud Consultant</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<section id="main">
+						<header>
+							<span class="avatar"><img src="images/avatar.jpg" alt="" /></span>
+							<h1>David Quinlisk</h1>
+							<p>Hybrid Cloud Consultant</p>
+						</header>
+						<footer>
+							<ul class="icons">
+								<li><a href="https://twitter.com/davequinlisk" class="icon brands fa-twitter">Twitter</a></li>
+								<li><a href="https://www.linkedin.com/in/davidquinlisk/" class="icon brands fa-linkedin">LinkedIn</a></li>
+								<li><a href="https://github.com/davequinlisk" class="icon brands fa-github">GitHub</a></li>
+								<li><a href="https://medium.com/@davequinlisk" class="icon brands fa-medium">Medium</a></li>
+							</ul>
+						</footer>
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="copyright">
+							<li>&copy; David Quinlisk</li>
+						</ul>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script>
+				if ('addEventListener' in window) {
+					window.addEventListener('load', function() { document.body.className = document.body.className.replace(/\bis-preload\b/, ''); });
+					document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
+				}
+			</script>
+
+	</body>
+</html>
